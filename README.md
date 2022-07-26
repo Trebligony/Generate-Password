@@ -32,7 +32,7 @@ for (let i = 0; i < passwordLength; i++) {
 
 # Screenshot of Applicatiom
 
-[Screenshot](Assets/Images/Password Generator.png)
+[Screenshot](Assets/Images/Password-Generator.png)
 
 # Link to application:
 
