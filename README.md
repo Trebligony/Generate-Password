@@ -29,3 +29,11 @@ for (let i = 0; i < passwordLength; i++) {
   password += passwordCharSet[Math.floor(Math.random() * passwordCharSet.length)]
 }
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+# Screenshot of Applicatiom
+
+[Screenshot](Assets/Images/Password Generator.png)
+
+# Link to application:
+
+https://trebligony.github.io/Generate-Password/
